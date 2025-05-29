@@ -12,7 +12,7 @@ Keyboard input support (optional, if implemented)
 
 Lightweight and fast
 
-📁 Tech Stack
+📁 Tech Stack 
 HTML5 – for structure
 
 CSS3 – for layout and styling
