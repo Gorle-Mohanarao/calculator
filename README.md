@@ -8,7 +8,6 @@ Clear and backspace functionality
 
 Responsive design (works on mobile and desktop)
 
-Keyboard input support (optional, if implemented)
 
 Lightweight and fast
 
